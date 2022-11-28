@@ -1,5 +1,6 @@
 package org.animals.abs;
 
-public class InUOTANTE {
+public  interface InUOTANTE {
 
+	public void nuota();
 }

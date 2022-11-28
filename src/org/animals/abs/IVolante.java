@@ -1,5 +1,7 @@
 package org.animals.abs;
 
-public class IVolante {
+public interface IVolante {
 
+	public void vola();	
+	
 }
